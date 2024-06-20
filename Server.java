@@ -12,7 +12,6 @@ import java.util.Random;
 import java.text.*;
 
 //JFrame is a class of swing package also interface actionlister functions we will implement
-//We are extending Jframe which means we can use properties of this class.
 
 public class Server
 {

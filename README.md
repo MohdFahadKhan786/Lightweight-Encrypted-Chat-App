@@ -10,6 +10,6 @@ For launching this Application.
 3. Launch the Server Side first to establish a host machine.
 4. A number of clients can now connect to the server and start a broadcast communication channel.
 
-![Live implementation](image-1.png)
+![Live Implementation](image-2.png)
 
 
